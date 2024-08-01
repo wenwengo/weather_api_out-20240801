@@ -1,1 +1,1 @@
-# weather_api_out-20240801
+串接台灣氣象局的API
